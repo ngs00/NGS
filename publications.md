@@ -4,13 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<div class="pub-intro">
-Selected publications and research outputs.
-</div>
-
-
-<h2 class="pub-category">Refereed Publications</h2>
-
 <h3 class="pub-year">2026</h3>
 
 <div class="publication">
