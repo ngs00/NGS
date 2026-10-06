@@ -7,26 +7,19 @@ permalink: /publications/
 <h3 class="pub-year">2026</h3>
 
 <div class="publication">
-
-<div class="pub-title">
-<a href="PAPER_URL">
-Mixture of Analytical Reasoning Agents for Autonomous and Explainable Molecular Identification from Multi-Source Analytical Observations
-</a>
-</div>
-
-<div class="pub-authors">
-<strong>Gyoung Na</strong>, Yecheol Rho
-</div>
-
-<div class="pub-venue">
-<em>Analytical Chemistry</em>, 2026
-</div>
-
-<div class="pub-links">
-<a href="CODE_URL">Code</a>
-<a href="DOI_URL">DOI</a>
-</div>
-
+  <div class="pub-title">
+    <a href="PAPER_URL">
+    Mixture of Analytical Reasoning Agents for Autonomous and Explainable Molecular Identification from Multi-Source Analytical Observations
+    </a>
+  </div>
+  
+  <div class="pub-authors">
+    <strong>Gyoung Na</strong>, Yecheol Rho
+  </div>
+  
+  <div class="pub-venue">
+    <em>Analytical Chemistry</em>, 2026
+  </div>
 </div>
 
 
