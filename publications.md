@@ -24,28 +24,22 @@ permalink: /publications/
 
 
 <div class="publication">
-
-<div class="pub-title">
-<a href="PAPER_URL">
-Title of Another Publication
-</a>
+  <div class="pub-title">
+    <a href="PAPER_URL">
+    12312312
+    </a>
+  </div>
+  
+  <div class="pub-authors">
+    <strong>Gyoung Na</strong>, Yecheol Rho
+  </div>
+  
+  <div class="pub-venue">
+    <em>Analytical Chemistry</em>, 2026
+  </div>
 </div>
 
-<div class="pub-authors">
-First Author, <strong>Gyoung Na</strong>, Third Author
-</div>
-
-<div class="pub-venue">
-<em>Conference or Journal</em>, 2026
-</div>
-
-<div class="pub-links">
-<a href="CODE_URL">Code</a>
-</div>
-
-</div>
-
-
+---
 
 <h2 class="pub-category">Workshop Papers</h2>
 
