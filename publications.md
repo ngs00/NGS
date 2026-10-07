@@ -72,7 +72,7 @@ permalink: /publications/
       <a href="https://doi.org/10.1021/acs.jcim.9b00816" target="_blank">Costless Performance Improvement in Machine Learning for Graph-based Molecular Analysis</a>
     </div>
     <div class="pub-authors">
-      <strong>Gyoung S. Na<sup>*,&dagger</sup></strong>, Hyun Woo Kim<sup>&dagger</sup>, Hyunju Chang<sup>*</sup>
+      <strong>Gyoung S. Na<sup>*,&dagger;</sup></strong>, Hyun Woo Kim<sup>&dagger;</sup>, Hyunju Chang<sup>*</sup>
     </div>
     <div class="pub-venue"><em>Journal of Chemical Information and Modeling</em>, 2020</div>
   </li>
