@@ -25,7 +25,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
   </li>
 
-  <li class="publication journal">
+  <li class="publication journal" value="28">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acssuschemeng.5c09242" target="_blank">Exploring Non-Toxic Green Refrigerants using Positive-Unlabeled Learning and High-Fidelity Search</a>
     </div>
@@ -35,7 +35,7 @@ permalink: /publications/
     <div class="pub-venue"><em>ACS Sustainable Chemistry & Engineering</em>, 2026</div>
   </li>
 
-  <li class="publication conference">
+  <li class="publication conference" value="27">
     <div class="pub-title">
       <a href="https://doi.org/10.1109/AIoT66900.2025.00019" target="_blank">Conditional Inverse Design Solvers for Autonomous Manufacturing Systems with System Constraints</a>
     </div>
@@ -45,7 +45,7 @@ permalink: /publications/
     <div class="pub-venue"><em>IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT)</em>, 2025</div>
   </li>
 
-  <li class="publication journal">
+  <li class="publication journal" value="26">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acs.analchem.5c03126" target="_blank">Explainable Machine Learning for Characterizing Unknown Molecular Structures in Infrared Spectra</a>
     </div>
@@ -55,7 +55,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Analytical Chemistry</em>, 2025</div>
   </li>
 
-  <li class="publication journal">
+  <li class="publication journal" value="25">
     <div class="pub-title">
       <a href="https://doi.org/10.1038/s41524-025-01723-1" target="_blank">Cross-modality Material Embedding Loss for Transferring Knowledge Between Heterogeneous Material Descriptors</a>
     </div>
@@ -65,13 +65,15 @@ permalink: /publications/
     <div class="pub-venue"><em>npj Computational Materials</em>, 2025</div>
   </li>
 
-
-
-
-
-
-
-
+  <li class="publication conference" value="24">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1145/3690624.3709270" target="_blank">Electron-Informed Coarse-Graining Molecular Representation Learning for Real-World Molecular Physics</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2025</div>
+  </li>
 
   <li class="publication conference" value="23">
     <div class="pub-title">
