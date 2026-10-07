@@ -67,9 +67,25 @@ permalink: /publications/
 
 
 
+  <li class="publication conference" value="6">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1039/d0re00378f" target="_blank">Reaction Condition Optimization for Non-Oxidative Conversion of Methane Using Artificial Intelligence</a>
+    </div>
+    <div class="pub-authors">
+      Hyun Woo Kim<sup>*,&dagger;</sup>, Sung Woo Lee<sup>&dagger;</sup>, <strong>Gyoung S. Na<sup>&dagger;</sup></strong>, Seung Ju Han, Seok Ki Kim, Jung Ho Shin, Hyunju Chang<sup>*</sup>, Yong Tae Kim<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>Reaction Chemistry & Engineering</em>, 2020</div>
+  </li>
 
-
-
+  <li class="publication conference" value="5">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1109/BigData50022.2020.9377905" target="_blank">Scale-Aware Graph-Based Machine Learning for Accurate Molecular Property Prediction</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim, Hyunju Chang
+    </div>
+    <div class="pub-venue"><em>IEEE International Conference on Big Data (IEE Big Data)</em>, 2020</div>
+  </li>
 
   <li class="publication journal" value="4">
     <div class="pub-title">
