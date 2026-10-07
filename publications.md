@@ -64,6 +64,16 @@ permalink: /publications/
     </div>
     <div class="pub-venue"><em>npj Computational Materials</em>, 2025</div>
   </li>
+
+  <li class="publication conference" value="1">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1145/3219819.322002" target="_blank">DILOF: Effective and Memory Efficient Local Outlier Detection in Data Streams</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>, Donghyun Kim, Hwanjo Yu<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>ACM SIGKDD</em>, 2018</div>
+  </li>
 </ol>
 
 
