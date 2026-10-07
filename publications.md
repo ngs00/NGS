@@ -6,35 +6,57 @@ permalink: /publications/
 
 <h3 class="pub-year">2026</h3>
 
-<div class="publication">
-  <div class="pub-title">
-    <a href="PAPER_URL">
-    Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures
-    </a>
-  </div>
-  <div class="pub-authors">
-    <strong>Gyoung Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
-  </div>
-  <div class="pub-venue">
-    <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026
-  </div>
-</div>
+<ol class="publication-list">
+
+  <li class="publication journal">
+
+    <div class="pub-title">
+      <a href="PAPER_URL">
+        Mixture of Analytical Reasoning Agents for Autonomous and Explainable
+        Molecular Identification from Multi-Source Analytical Observations
+      </a>
+    </div>
+
+    <div class="pub-authors">
+      <strong>Gyoung Na</strong>, Yecheol Rho
+    </div>
+
+    <div class="pub-venue">
+      <em>Analytical Chemistry</em>, 2026
+    </div>
+
+    <div class="pub-links">
+      <a href="CODE_URL">Code</a>
+      <a href="DOI_URL">DOI</a>
+    </div>
+
+  </li>
 
 
-<div class="publication">
-  <div class="pub-title">
-    <a href="PAPER_URL">
-    </a>
-  </div>
-  
-  <div class="pub-authors">
-    <strong>Gyoung Na</strong>, Yecheol Rho
-  </div>
-  
-  <div class="pub-venue">
-    <em>Analytical Chemistry</em>, 2026
-  </div>
-</div>
+  <li class="publication conference">
+
+    <div class="pub-title">
+      <a href="PAPER_URL">
+        Title of Conference Paper
+      </a>
+    </div>
+
+    <div class="pub-authors">
+      <strong>Gyoung Na</strong>, Coauthor Name
+    </div>
+
+    <div class="pub-venue">
+      <em>International Conference on Learning Representations (ICLR)</em>, 2026
+    </div>
+
+    <div class="pub-links">
+      <a href="CODE_URL">Code</a>
+    </div>
+
+  </li>
+
+</ol>
+
 
 <h2 class="pub-category">Workshop Papers</h2>
 
