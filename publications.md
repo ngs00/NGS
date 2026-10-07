@@ -12,7 +12,7 @@ permalink: /publications/
     <div class="pub-authors">
       <strong>Gyoung Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
     </div>
-    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NuerIPS)</em>, 2026</div>
+    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
   </li>
 
   <li class="publication conference">
@@ -22,7 +22,7 @@ permalink: /publications/
     <div class="pub-authors">
       Heewoong Noh, <strong>Gyoung S. Na</strong>, Namkyeong Lee, Chanyoung Park<sup>*</sup>
     </div>
-    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NuerIPS)</em>, 2026</div>
+    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
   </li>
 
   <li class="publication journal">
@@ -47,7 +47,7 @@ permalink: /publications/
 
   <li class="publication journal">
     <div class="pub-title">
-      <a href="https://doi.org/10.1021/acs.analchem.5c03126" target="_blank">Explainable Machine Learning for Characterizing Unknown Molecular Structures in Infrared Spectrah</a>
+      <a href="https://doi.org/10.1021/acs.analchem.5c03126" target="_blank">Explainable Machine Learning for Characterizing Unknown Molecular Structures in Infrared Spectra</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*</sup></strong>, Yecheol Rho<sup>*</sup>
