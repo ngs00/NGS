@@ -9,7 +9,6 @@
   margin: 0;
   padding: 0;
 }
-
 .publication-list > .publication {
   position: relative;
   list-style: none;
@@ -19,9 +18,8 @@
 
 
 /* Number badge */
-
 .publication-list > .publication::before {
-  content: counter(publication-counter);
+  content: counter(list-item);
 
   position: absolute;
   left: 0;
@@ -45,14 +43,12 @@
 
 
 /* Journal: pastel blue */
-
 .publication-list > .publication.journal::before {
   background-color: #b8d4ea;
 }
 
 
 /* Conference: pastel lavender */
-
 .publication-list > .publication.conference::before {
   background-color: #d5c2df;
 }
