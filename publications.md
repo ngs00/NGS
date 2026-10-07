@@ -76,7 +76,7 @@ permalink: /publications/
       <a href="https://doi.org/10.1016/j.neunet.2020.09.022" target="_blank">Reverse Graph Self-Attention for Target-Directed Atomic Importance Estimation</a>
     </div>
     <div class="pub-authors">
-      <strong>Gyoung S. Na</strong>, Hyun Woo Kim
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim<sup>*</sup>
     </div>
     <div class="pub-venue"><em>Neural Networks</em>, 2021</div>
   </li>
