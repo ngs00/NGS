@@ -92,7 +92,7 @@ permalink: /publications/
     <div class="pub-authors">
       <strong>Gyoung S. Na</strong>, Donghyun Kim, Hwanjo Yu<sup>*</sup>
     </div>
-    <div class="pub-venue"><em>ACM SIGKDD</em>, 2018</div>
+    <div class="pub-venue"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2018</div>
   </li>
 </ol>
 
