@@ -7,7 +7,7 @@ permalink: /publications/
 <ol reversed class="publication-list">
   <li class="publication conference">
     <div class="pub-title">
-      <a href="https://openreview.net/forum?id=yMLPNBz9ZT">Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures</a>
+      <a href="https://openreview.net/forum?id=yMLPNBz9ZT" target="_blank">Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
@@ -17,7 +17,7 @@ permalink: /publications/
 
   <li class="publication conference">
     <div class="pub-title">
-      <a href="https://openreview.net/forum?id=uYucJYHAGU">A Structured LLM Framework for Inorganic Material Synthesis Planning</a>
+      <a href="https://openreview.net/forum?id=uYucJYHAGU" target="_blank">A Structured LLM Framework for Inorganic Material Synthesis Planning</a>
     </div>
     <div class="pub-authors">
       Heewoong Noh, <strong>Gyoung S. Na</strong>, Namkyeong Lee, Chanyoung Park<sup>*</sup>
