@@ -71,7 +71,7 @@ permalink: /publications/
 
 
 
-  <li class="publication journal">
+  <li class="publication journal" value="7">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.neunet.2020.09.022" target="_blank">Reverse Graph Self-Attention for Target-Directed Atomic Importance Estimation</a>
     </div>
