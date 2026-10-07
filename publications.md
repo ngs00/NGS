@@ -65,9 +65,21 @@ permalink: /publications/
     <div class="pub-venue"><em>npj Computational Materials</em>, 2025</div>
   </li>
 
+
+  
+  <li class="publication journal" value="2">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1038/s41524-025-01723-1" target="_blank">Costless Performance Improvement in Machine Learning for Graph-based Molecular Analysis</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*,&dagger</sup></strong>, Hyun Woo Kim<sup>&dagger</sup>, Hyunju Chang<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>Journal of Chemical Information and Modeling</em>, 2020</div>
+  </li>
+  
   <li class="publication conference" value="1">
     <div class="pub-title">
-      <a href="https://doi.org/10.1145/3219819.322002" target="_blank">DILOF: Effective and Memory Efficient Local Outlier Detection in Data Streams</a>
+      <a href="https://doi.org/10.1145/3219819.3220022" target="_blank">DILOF: Effective and Memory Efficient Local Outlier Detection in Data Streams</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung S. Na</strong>, Donghyun Kim, Hwanjo Yu<sup>*</sup>
