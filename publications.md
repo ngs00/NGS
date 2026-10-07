@@ -65,7 +65,15 @@ permalink: /publications/
     <div class="pub-venue"><em>npj Computational Materials</em>, 2025</div>
   </li>
 
-
+  <li class="publication journal" value="3">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1039/d0cp02709j" target="_blank">Machine-Guided Representation for Accurate Graph-Based Molecular Machine Learning</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Hyunju Chang, Hyun Woo Kim<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>Physical Chemistry Chemical Physics</em>, 2020</div>
+  </li>
   
   <li class="publication journal" value="2">
     <div class="pub-title">
