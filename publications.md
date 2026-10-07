@@ -135,7 +135,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Computational Materials Science</em>, 2024</div>
   </li>
 
-  <li class="publication conference" value="17">
+  <li class="publication journal" value="17">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acs.chemmater.3c01834" target="_blank">Artificial Intelligence for Learning Material Synthesis Processes of Thermoelectric Materials</a>
     </div>
