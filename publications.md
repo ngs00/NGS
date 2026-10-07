@@ -26,7 +26,6 @@ permalink: /publications/
 <div class="publication">
   <div class="pub-title">
     <a href="PAPER_URL">
-    12312312
     </a>
   </div>
   
@@ -38,8 +37,6 @@ permalink: /publications/
     <em>Analytical Chemistry</em>, 2026
   </div>
 </div>
-
----
 
 <h2 class="pub-category">Workshop Papers</h2>
 
