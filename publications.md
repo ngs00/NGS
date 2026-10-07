@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<ol reversed class="publication-list">
+<ol class="publication-list" reversed>
   <li class="publication conference">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=yMLPNBz9ZT" target="_blank">Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures</a>
