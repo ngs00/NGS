@@ -54,6 +54,16 @@ permalink: /publications/
     </div>
     <div class="pub-venue"><em>Analytical Chemistry</em>, 2025</div>
   </li>
+
+  <li class="publication journal">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1038/s41524-025-01723-1" target="_blank">Cross-modality Material Embedding Loss for Transferring Knowledge Between Heterogeneous Material Descriptors</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>npj Computational Materials</em>, 2025</div>
+  </li>
 </ol>
 
 
