@@ -336,7 +336,7 @@ permalink: /publications/
       <a href="https://neurips.cc/virtual/2023/75794" target="_blank">Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems</a>
     </div>
     <div class="pub-authors">
-      <strong>Gyoung S. Na></strong>
+      <strong>Gyoung S. Na</strong>
     </div>
     <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2023</div>
   </li>
