@@ -4,106 +4,58 @@
 @import "minima";
 
 
-/* Publication categories */
+.publication-list {
+  list-style: none;
+  counter-reset: publication-counter;
 
-.pub-category {
-  margin-top: 3rem;
-  margin-bottom: 1.5rem;
-  padding-bottom: 0.45rem;
-
-  border-bottom: 2px solid #222;
-
-  font-size: 1.45rem;
-  font-weight: 600;
+  margin-left: 0;
+  padding-left: 0;
 }
-
-
-/* Publication year */
-
-.pub-year {
-  margin-top: 2rem;
-  margin-bottom: 1.2rem;
-
-  font-size: 2.15rem;
-  font-weight: 600;
-
-  color: #666;
-}
-
-
-/* Individual publication */
 
 .publication {
-  margin-bottom: 2rem;
+  position: relative;
+
+  counter-increment: publication-counter;
+
+  margin-bottom: 3rem;
+  padding-left: 3.6rem;
 }
 
 
-/* Paper title */
+/* Number square */
 
-.pub-title {
-  margin-bottom: 0.35rem;
+.publication::before {
+  content: counter(publication-counter);
 
-  font-size: 1.08rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+
+  width: 2.3rem;
+  height: 2.3rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 4px;
+
+  font-size: 0.9rem;
   font-weight: 600;
-  line-height: 1.45;
-}
 
-.pub-title a {
-  color: #222;
-  text-decoration: none;
-}
-
-.pub-title a:hover {
-  color: #2a7ae2;
-  text-decoration: underline;
+  color: white;
 }
 
 
-/* Authors */
+/* Journal */
 
-.pub-authors {
-  margin-bottom: 0.15rem;
-
-  font-size: 0.95rem;
-  line-height: 1.5;
-
-  color: #444;
+.publication.journal::before {
+  background-color: #2a7ae2;
 }
 
 
-/* Venue */
+/* Conference */
 
-.pub-venue {
-  margin-bottom: 0.55rem;
-
-  font-size: 0.95rem;
-  color: #666;
-}
-
-
-/* Additional links */
-
-.pub-links {
-  margin-top: 0.45rem;
-}
-
-.pub-links a {
-  display: inline-block;
-
-  margin-right: 0.35rem;
-  padding: 0.18rem 0.55rem;
-
-  border: 1px solid #b7b7b7;
-  border-radius: 3px;
-
-  font-size: 0.78rem;
-  line-height: 1.4;
-
-  color: #444;
-  text-decoration: none;
-}
-
-.pub-links a:hover {
-  border-color: #555;
-  color: #111;
+.publication.conference::before {
+  background-color: #8a5a9e;
 }
