@@ -5,21 +5,27 @@ permalink: /publications/
 ---
 
 <ol class="publication-list">
-  <li class="publication journal">
+  <li class="publication conference">
     <div class="pub-title">
-      <a href="https://openreview.net/forum?id=yMLPNBz9ZT">
-        Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures
-      </a>
+      <a href="https://openreview.net/forum?id=yMLPNBz9ZT">Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
     </div>
-    <div class="pub-venue">
-      <em>Conference on Neural Information Processing Systems (NuerIPS)</em>, 2026
-    </div>
+    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NuerIPS)</em>, 2026</div>
   </li>
 
   <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=yMLPNBz9ZT">A Structured LLM Framework for Inorganic Material Synthesis Planning</a>
+    </div>
+    <div class="pub-authors">
+      Heewoong Noh, <strong>Gyoung S. Na</strong>, Namkyeong Lee, Chanyoung Park<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NuerIPS)</em>, 2026</div>
+  </li>
+
+  <li class="publication journal">
     <div class="pub-title">
       <a href="PAPER_URL">
         Title of Conference Paper
