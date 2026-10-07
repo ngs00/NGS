@@ -13,7 +13,7 @@ permalink: /publications/
     </a>
   </div>
   <div class="pub-authors">
-    <strong>Gyoung Na</strong>, Chanyoung Park
+    <strong>Gyoung Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
   </div>
   <div class="pub-venue">
     <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026
