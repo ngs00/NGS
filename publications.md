@@ -310,7 +310,18 @@ permalink: /publications/
 <h2 class="pub-category">Workshop Papers</h2>
 
 <ol class="publication-list">
-    <li class="publication conference" value="2">
+
+  <li class="publication conference" value="4">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=8ar88hbtVG" target="_blank">Machine Collective Intelligence with Canonical Syntax Representations for Explainable Scientific Discovery</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2026</div>
+  </li>
+  
+  <li class="publication conference" value="2">
     <div class="pub-title">
       <a href="https://neurips.cc/virtual/2023/75794" target="_blank">Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems</a>
     </div>
