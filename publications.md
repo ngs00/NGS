@@ -69,6 +69,49 @@ permalink: /publications/
 
 
 
+
+
+
+  <li class="publication conference" value="15">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1109/BigData55660.2022.10020289" target="_blank">Conditional Graph Regression for Complex Chemical Systems with Heterogeneous Substructures</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>IEEE International Conference on Big Data (IEEE Big Data)</em>, 2022</div>
+  </li>
+
+  <li class="publication journal" value="14">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1038/s41524-022-00897-2" target="_blank">A Public Database of Thermoelectric Materials and System-Identified Material Representation for Data-Driven Discovery</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Hyunju Chang<sup>*</sup> 
+    </div>
+    <div class="pub-venue"><em>npj Computational Materials</em>, 2022</div>
+  </li>
+
+  <li class="publication journal" value="13">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1016/j.eswa.2022.117367" target="_blank">Eigen-Guided Deep Metric Learning</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>Expert Systems with Applications</em>, 2022</div>
+  </li>
+
+  <li class="publication conference" value="12">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1145/3534678.3539326" target="_blank">Nonlinearity Encoding for Extrapolation of Neural Networks</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2022</div>
+  </li>
+  
   <li class="publication journal" value="11">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.neunet.2022.02.014" target="_blank">Efficient Learning Rate Adaptation Based on Hierarchical Optimization Approach</a>
