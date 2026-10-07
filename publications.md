@@ -9,16 +9,14 @@ permalink: /publications/
 <div class="publication">
   <div class="pub-title">
     <a href="PAPER_URL">
-    Mixture of Analytical Reasoning Agents for Autonomous and Explainable Molecular Identification from Multi-Source Analytical Observations
+    Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures
     </a>
   </div>
-  
   <div class="pub-authors">
-    <strong>Gyoung Na</strong>, Yecheol Rho
+    <strong>Gyoung Na</strong>, Chanyoung Park
   </div>
-  
   <div class="pub-venue">
-    <em>Analytical Chemistry</em>, 2026
+    <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026
   </div>
 </div>
 
