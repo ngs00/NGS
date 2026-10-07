@@ -309,27 +309,26 @@ permalink: /publications/
 
 <h2 class="pub-category">Workshop Papers</h2>
 
-<h3 class="pub-year">2026</h3>
-
-<div class="publication">
-
-<div class="pub-title">
-<a href="PAPER_URL">
-Title of Workshop Paper
-</a>
-</div>
-
-<div class="pub-authors">
-<strong>Gyoung Na</strong>, Coauthor Name
-</div>
-
-<div class="pub-venue">
-<em>Workshop Name at Conference Name</em>, 2026
-</div>
-
-<div class="pub-links">
-<a href="CODE_URL">Code</a>
-<a href="PROJECT_URL">Project</a>
-</div>
+<ol class="publication-list">
+    <li class="publication conference" value="2">
+    <div class="pub-title">
+      <a href="https://neurips.cc/virtual/2023/75794" target="_blank">Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na></strong>
+    </div>
+    <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2023</div>
+  </li>
+  
+  <li class="publication conference" value="1">
+    <div class="pub-title">
+      <a href="https://neurips.cc/virtual/2023/75706" target="_blank">Electron-Derived Molecular Representation Learning for Real-World Molecular Physics</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2023</div>
+  </li>
+</ol>
 
 </div>
