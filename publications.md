@@ -15,7 +15,7 @@ permalink: /publications/
       <strong>Gyoung Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue">
-      <em>Conference on Neural Information Processing Systems</em>, 2026
+      <em>Conference on Neural Information Processing Systems (NuerIPS)</em>, 2026
     </div>
   </li>
 
