@@ -19,6 +19,7 @@
 
 /* Number badge */
 .publication-list > .publication::before {
+  content: attr(value);
   position: absolute;
   left: 0;
   top: 0.15rem;
