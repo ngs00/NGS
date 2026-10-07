@@ -162,7 +162,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Neural Networks</em>, 2021</div>
   </li>
 
-  <li class="publication conference" value="6">
+  <li class="publication journal" value="6">
     <div class="pub-title">
       <a href="https://doi.org/10.1039/d0re00378f" target="_blank">Reaction Condition Optimization for Non-Oxidative Conversion of Methane Using Artificial Intelligence</a>
     </div>
