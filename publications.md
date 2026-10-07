@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-<ol class="publication-list" reversed>
-  <li class="publication conference">
+<ol class="publication-list">
+  <li class="publication conference" value="30">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=yMLPNBz9ZT" target="_blank">Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures</a>
     </div>
@@ -15,7 +15,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
   </li>
 
-  <li class="publication conference">
+  <li class="publication conference"  value="29">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=uYucJYHAGU" target="_blank">A Structured LLM Framework for Inorganic Material Synthesis Planning</a>
     </div>
