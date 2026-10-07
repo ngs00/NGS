@@ -320,6 +320,16 @@ permalink: /publications/
     </div>
     <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2026</div>
   </li>
+
+  <li class="publication conference" value="3">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=8ar88hbtVG" target="_blank">Periodic Complex Stochastic Processes for Retrieving Atomic Structures of Unknown Matters</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>ICML Workshop on AI for Science</em>, 2026</div>
+  </li>
   
   <li class="publication conference" value="2">
     <div class="pub-title">
