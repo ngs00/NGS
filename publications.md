@@ -25,19 +25,14 @@ permalink: /publications/
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NuerIPS)</em>, 2026</div>
   </li>
 
-  <li class="publication journal">
+  <li class="publication conference">
     <div class="pub-title">
-      <a href="PAPER_URL">
-        Title of Conference Paper
-      </a>
+      <a href="https://doi.org/10.1021/acssuschemeng.5c09242" target="_blank">Exploring Non-Toxic Green Refrigerants using Positive-Unlabeled Learning and High-Fidelity Search</a>
     </div>
     <div class="pub-authors">
-      <strong>Gyoung Na</strong>, Coauthor Name
+      Sanghoon Lee, Hyeok Jae Lee, <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim<sup>*</sup>
     </div>
-
-    <div class="pub-venue">
-      <em>International Conference on Learning Representations (ICLR)</em>, 2026
-    </div>
+    <div class="pub-venue"><em>ACS Sustainable Chemistry & Engineering</em>, 2026</div>
   </li>
 </ol>
 
