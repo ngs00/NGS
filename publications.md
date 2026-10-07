@@ -69,7 +69,45 @@ permalink: /publications/
 
 
 
+  <li class="publication journal" value="11">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1016/j.neunet.2022.02.014" target="_blank">Efficient Learning Rate Adaptation Based on Hierarchical Optimization Approach</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>Neural Networks</em>, 2021</div>
+  </li>
 
+  <li class="publication journal" value="10">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1039/d1cp04450h" target="_blank">Nonlinearity Encoding to Improve Extrapolation Capabilities for Unobserved Physical States</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Seunghun Jang, Hyunju Chang 
+    </div>
+    <div class="pub-venue"><em>Physical Chemistry Chemical Physics</em>, 2021</div>
+  </li>
+
+  <li class="publication journal" value="9">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1145/3459082" target="_blank">Unsupervised Subspace Extraction via Deep Kernelized Clustering</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Hyunju Chang 
+    </div>
+    <div class="pub-venue"><em>ACM Transactions on Knowledge Discovery from Data</em>, 2021</div>
+  </li>
+
+  <li class="publication journal" value="8">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1038/s41524-021-00564-y" target="_blank">Predicting Materials Properties from Chemical Formula with Explicitly Identifying Dopant Effects</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Seunghun Jang, Hyunju Chang 
+    </div>
+    <div class="pub-venue"><em>npj Computational Materials</em>, 2021</div>
+  </li>
 
   <li class="publication journal" value="7">
     <div class="pub-title">
