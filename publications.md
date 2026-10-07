@@ -69,6 +69,30 @@ permalink: /publications/
 
 
 
+
+
+
+
+  <li class="publication conference" value="23">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=UQ0RqfhgCk" target="_blank">Self-Supervised Diffusion Models for Electron-Aware Molecular Representation Learning</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>International Conference on Learning Representations (ICLR)</em>, 2025</div>
+  </li>
+  
+  <li class="publication journal" value="22">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1021/acs.analchem.4c04786" target="_blank">Deep Learning for Generating Phase-Conditioned Infrared Spectra</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>Analytical Chemistry</em>, 2025</div>
+  </li>
+
   <li class="publication conference" value="21">
     <div class="pub-title">
       <a href="https://doi.org/10.48550/arXiv.2410.21341" target="_blank">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a>
