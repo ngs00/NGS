@@ -56,3 +56,11 @@
 .publication-list > .publication.conference::before {
   background-color: #d5c2df;
 }
+
+
+.pub-title a:hover,
+.pub-title a:focus,
+.pub-title a:active {
+  color: #222 !important;
+  text-decoration: none !important;
+}
