@@ -65,6 +65,22 @@ permalink: /publications/
     <div class="pub-venue"><em>npj Computational Materials</em>, 2025</div>
   </li>
 
+
+
+
+
+
+
+  <li class="publication journal" value="4">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1021/acs.jpca.0c07802" target="_blank">Tuplewise Material Representation Based Machine Learning for Accurate Band Gap Prediction</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>, Seunghun Jang, Yea-Lee Lee<sup>*</sup>, Hyunju Chang<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>The Journal of Physical Chemistry A</em>, 2020</div>
+  </li>
+
   <li class="publication journal" value="3">
     <div class="pub-title">
       <a href="https://doi.org/10.1039/d0cp02709j" target="_blank">Machine-Guided Representation for Accurate Graph-Based Molecular Machine Learning</a>
