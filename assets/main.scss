@@ -12,12 +12,7 @@
 
 .publication-list > .publication {
   position: relative;
-
-  /* 1씩 감소 */
-  counter-increment: publication-counter -1;
-
   list-style: none;
-
   margin: 0 0 2.8rem 0;
   padding-left: 3rem;
 }
