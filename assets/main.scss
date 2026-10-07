@@ -6,10 +6,6 @@
 
 .publication-list {
   list-style: none;
-
-  /* 자동 역순 numbering */
-  counter-reset: reversed(publication-counter);
-
   margin: 0;
   padding: 0;
 }
