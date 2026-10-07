@@ -341,5 +341,3 @@ permalink: /publications/
     <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2023</div>
   </li>
 </ol>
-
-</div>
