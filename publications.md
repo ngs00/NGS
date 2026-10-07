@@ -67,6 +67,20 @@ permalink: /publications/
 
 
 
+
+
+
+
+  <li class="publication journal">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1016/j.neunet.2020.09.022" target="_blank">Reverse Graph Self-Attention for Target-Directed Atomic Importance Estimation</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>, Hyun Woo Kim
+    </div>
+    <div class="pub-venue"><em>Neural Networks</em>, 2021</div>
+  </li>
+
   <li class="publication conference" value="6">
     <div class="pub-title">
       <a href="https://doi.org/10.1039/d0re00378f" target="_blank">Reaction Condition Optimization for Non-Oxidative Conversion of Methane Using Artificial Intelligence</a>
