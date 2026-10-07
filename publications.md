@@ -17,7 +17,7 @@ permalink: /publications/
 
   <li class="publication conference">
     <div class="pub-title">
-      <a href="https://openreview.net/forum?id=yMLPNBz9ZT">A Structured LLM Framework for Inorganic Material Synthesis Planning</a>
+      <a href="https://openreview.net/forum?id=uYucJYHAGU">A Structured LLM Framework for Inorganic Material Synthesis Planning</a>
     </div>
     <div class="pub-authors">
       Heewoong Noh, <strong>Gyoung S. Na</strong>, Namkyeong Lee, Chanyoung Park<sup>*</sup>
