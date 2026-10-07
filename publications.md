@@ -76,7 +76,7 @@ permalink: /publications/
     <div class="pub-authors">
       <strong>Gyoung S. Na</strong>
     </div>
-    <div class="pub-venue"><em>Neural Networks</em>, 2021</div>
+    <div class="pub-venue"><em>Neural Networks</em>, 2022</div>
   </li>
 
   <li class="publication journal" value="10">
@@ -86,7 +86,7 @@ permalink: /publications/
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*</sup></strong>, Seunghun Jang, Hyunju Chang 
     </div>
-    <div class="pub-venue"><em>Physical Chemistry Chemical Physics</em>, 2021</div>
+    <div class="pub-venue"><em>Physical Chemistry Chemical Physics</em>, 2022</div>
   </li>
 
   <li class="publication journal" value="9">
