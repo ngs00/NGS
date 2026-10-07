@@ -5,8 +5,10 @@
 
 
 .publication-list {
-  list-style: none !important;
-  counter-reset: publication-counter;
+  list-style: none;
+
+  /* 자동 역순 numbering */
+  counter-reset: reversed(publication-counter);
 
   margin: 0;
   padding: 0;
@@ -14,12 +16,14 @@
 
 .publication-list > .publication {
   position: relative;
-  counter-increment: publication-counter;
+
+  /* 1씩 감소 */
+  counter-increment: publication-counter -1;
 
   list-style: none;
 
-  margin: 0 0 1rem 0;
-  padding: 0 0 0 3.5rem;
+  margin: 0 0 2.8rem 0;
+  padding-left: 3rem;
 }
 
 
@@ -30,10 +34,10 @@
 
   position: absolute;
   left: 0;
-  top: 0.1rem;
+  top: 0.15rem;
 
-  width: 2.2rem;
-  height: 2.2rem;
+  width: 1.9rem;
+  height: 1.9rem;
 
   display: flex;
   align-items: center;
@@ -41,23 +45,23 @@
 
   border-radius: 4px;
 
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   font-weight: 600;
   line-height: 1;
 
-  color: #fff;
+  color: #344050;
 }
 
 
-/* Journal */
+/* Journal: pastel blue */
 
 .publication-list > .publication.journal::before {
-  background-color: #2a7ae2;
+  background-color: #b8d4ea;
 }
 
 
-/* Conference */
+/* Conference: pastel lavender */
 
 .publication-list > .publication.conference::before {
-  background-color: #8a5a9e;
+  background-color: #d5c2df;
 }
