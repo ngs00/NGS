@@ -98,7 +98,7 @@ permalink: /publications/
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim, Hyunju Chang
     </div>
-    <div class="pub-venue"><em>IEEE International Conference on Big Data (IEE Big Data)</em>, 2020</div>
+    <div class="pub-venue"><em>IEEE International Conference on Big Data (IEEE Big Data)</em>, 2020</div>
   </li>
 
   <li class="publication journal" value="4">
