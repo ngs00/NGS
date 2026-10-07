@@ -100,7 +100,7 @@ permalink: /publications/
       <a href="https://doi.org/10.48550/arXiv.2410.21341" target="_blank">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a>
     </div>
     <div class="pub-authors">
-      Heewoong Noh, Namkyeong Lee, <strong>Gyoung S. Na<sup>*</sup></strong>, <strong>Chanyoung Park</strong>
+      Heewoong Noh, Namkyeong Lee, <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025</div>
   </li>
