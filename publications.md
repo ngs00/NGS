@@ -12,8 +12,7 @@ permalink: /publications/
 
     <div class="pub-title">
       <a href="PAPER_URL">
-        Mixture of Analytical Reasoning Agents for Autonomous and Explainable
-        Molecular Identification from Multi-Source Analytical Observations
+        Mixture of Analytical Reasoning Agents for Autonomous and Explainable Molecular Identification from Multi-Source Analytical Observations
       </a>
     </div>
 
