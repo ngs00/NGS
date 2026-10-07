@@ -25,7 +25,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NuerIPS)</em>, 2026</div>
   </li>
 
-  <li class="publication conference">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acssuschemeng.5c09242" target="_blank">Exploring Non-Toxic Green Refrigerants using Positive-Unlabeled Learning and High-Fidelity Search</a>
     </div>
@@ -34,6 +34,19 @@ permalink: /publications/
     </div>
     <div class="pub-venue"><em>ACS Sustainable Chemistry & Engineering</em>, 2026</div>
   </li>
+
+  <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1109/AIoT66900.2025.00019" target="_blank">Conditional Inverse Design Solvers for Autonomous Manufacturing Systems with System Constraints</a>
+    </div>
+    <div class="pub-authors">
+       <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT)</em>, 2025</div>
+  </li>
+
+
+  
 </ol>
 
 
