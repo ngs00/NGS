@@ -69,8 +69,65 @@ permalink: /publications/
 
 
 
+  <li class="publication conference" value="21">
+    <div class="pub-title">
+      <a href="https://doi.org/10.48550/arXiv.2410.21341" target="_blank">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a>
+    </div>
+    <div class="pub-authors">
+      Heewoong Noh, Namkyeong Lee, <strong>Gyoung S. Na<sup>*</sup></strong>, <strong>Chanyoung Park</strong>
+    </div>
+    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025</div>
+  </li>
 
+  <li class="publication journal" value="20">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1016/j.asoc.2024.111935" target="_blank">Metaheuristic-Guided Active Learning for Optimizing Reaction Conditions of High-Performance Non-Oxidative Methane Conversion</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>Applied Soft Computing</em>, 2024</div>
+  </li>
 
+  <li class="publication conference" value="19">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1109/ICBDA61153.2024.10607172" target="_blank">Learning M-Order Spectrum Graphs to Identify Unknown Chemical Compounds from Infrared Spectroscopy Data</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>IEEE International Conference on Big Data Analytics (IEEE ICBDA)</em>, 2024</div>
+  </li>
+
+  <li class="publication journal" value="18">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1016/j.commatsci.2024.112791" target="_blank">One-Shot Heterogeneous Transfer Learning from Calculated Crystal Structures to Experimentally Observed Materials</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>Computational Materials Science</em>, 2024</div>
+  </li>
+
+  <li class="publication conference" value="17">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1021/acs.chemmater.3c01834" target="_blank">Artificial Intelligence for Learning Material Synthesis Processes of Thermoelectric Materials</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>Chemistry of Materials</em>, 2023</div>
+  </li>
+
+  <li class="publication journal" value="16">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1016/j.commatsci.2022.111835" target="_blank">Substructure Interaction Graph Network with Node Augmentation for Hybrid Chemical Systems of Heterogeneous Substructures</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue"><em>Computational Materials Science</em>, 2023</div>
+  </li>
 
   <li class="publication conference" value="15">
     <div class="pub-title">
