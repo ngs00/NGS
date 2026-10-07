@@ -69,7 +69,7 @@ permalink: /publications/
   
   <li class="publication journal" value="2">
     <div class="pub-title">
-      <a href="https://doi.org/10.1038/s41524-025-01723-1" target="_blank">Costless Performance Improvement in Machine Learning for Graph-based Molecular Analysis</a>
+      <a href="https://doi.org/10.1021/acs.jcim.9b00816" target="_blank">Costless Performance Improvement in Machine Learning for Graph-based Molecular Analysis</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*,&dagger</sup></strong>, Hyun Woo Kim<sup>&dagger</sup>, Hyunju Chang<sup>*</sup>
