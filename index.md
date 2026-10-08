@@ -70,7 +70,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span>Senior Researcher, Chemical AI Research Team · Digital Chemistry Research Center</span>
+      <span><strong>Senior Researcher</strong>, Chemical AI Research Team · Digital Chemistry Research Center</span>
     </div>
     <div class="profile-year">
       2024–Present
@@ -80,7 +80,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span>Researcher, Data-Driven Chemistry Research Center</span>
+      <span><strong>Researcher</strong>, Data-Driven Chemistry Research Center</span>
     </div>
     <div class="profile-year">
       2019–2023
@@ -100,7 +100,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Open Source Tech Day, Korea</strong>
-      <span>Program Committee</span>
+      <span><strong>Program Committee</strong></span>
     </div>
     <div class="profile-year">
       2023–Present
@@ -110,7 +110,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>National Science Museum, Republic of Korea</strong>
-      <span>Advisory Committee of Artificial Intelligence</span>
+      <span><strong>Advisory Committee Member for AI</strong></span>
     </div>
     <div class="profile-year">
       2020–2022
