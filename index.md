@@ -62,14 +62,3 @@ title: Home
     </div>
   </div>
 </section>
-
-
-<section class="home-section">
-  <h2>Contact</h2>
-  <p>
-    Email:
-    <a href="mailto:ngs0@krict.re.kr">
-      ngs0@krict.re.kr
-    </a>
-  </p>
-</section>
