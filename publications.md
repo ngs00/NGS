@@ -353,6 +353,104 @@ permalink: /publications/
 
 <h2 class="pub-category">Contributing Publications</h2>
 <ol class="publication-list">
+  <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2602.07543" target="_blank">
+        A Structured LLM Framework for Inorganic Material Synthesis Planning
+      </a>
+    </div>
+    <div class="pub-authors">
+      Heewoong Noh, <strong>Gyoung S. Na</strong>, Namkyeong Lee, Chanyoung Park
+    </div>
+    <div class="pub-venue">
+      <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026
+    </div>
+  </li>
+
+  <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2312.13289" target="_blank">
+        Learning Probabilistic Compositional Representation of Crystalline Materials
+      </a>
+    </div>
+    <div class="pub-authors">
+      Namkyeong Lee, Heewoong Noh, <strong>Gyoung S. Na</strong>, Jimeng Sun, Tianfan Fu, Marinka Zitnik, Chanyoung Park
+    </div>
+    <div class="pub-venue">
+      <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2026
+    </div>
+  </li>
+
+  <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=6bthH14pD8" target="_blank">
+        IR-Agent: Expert-Inspired LLM Agents for Structure Elucidation from Infrared Spectra
+      </a>
+    </div>
+    <div class="pub-authors">
+      Heewoong Noh, Namkyeong Lee, <strong>Gyoung S. Na</strong>, Kibum Kim, Chanyoung Park
+    </div>
+    <div class="pub-venue">
+      <em>International Conference on Learning Representations (ICLR)</em>, 2026
+    </div>
+  </li>
+  
+  <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://openreview.net/forum?id=PZaxCfLGLA" target="_blank">
+        3D Interaction Geometric Pre-training for Molecular Relational Learning
+      </a>
+    </div>
+    <div class="pub-authors">
+      Namkyeong Lee, Yunhak Oh, Heewoong Noh, <strong>Gyoung S. Na</strong>, Minkai Xu, Hanchen Wang, Tianfan Fu, Chanyoung Park
+    </div>
+    <div class="pub-venue">
+      <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025
+    </div>
+  </li>
+  
+  <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/c23fdcb9f8e28af705a87de1375a705c-Abstract.html" target="_blank">
+        Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer
+      </a>
+    </div>
+    <div class="pub-authors">
+      Namkyeong Lee, Heewoong Noh, Sungwon Kim, Dongmin Hyun, <strong>Gyoung S. Na</strong>, Chanyoung Park
+    </div>
+    <div class="pub-venue">
+      <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2023
+    </div>
+  </li>
+  
+  <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1145/3580305.3599437" target="_blank">
+        Shift-Robust Molecular Relational Learning with Causal Substructure
+      </a>
+    </div>
+    <div class="pub-authors">
+      Namkyeong Lee, Kanghoon Yoon, <strong>Gyoung S. Na</strong>, Sein Kim, Chanyoung Park
+    </div>
+    <div class="pub-venue">
+      <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2023
+    </div>
+  </li>
+  
+  <li class="publication conference">
+    <div class="pub-title">
+      <a href="https://proceedings.mlr.press/v202/lee23e.html" target="_blank">
+        Conditional Graph Information Bottleneck for Molecular Relational Learning
+      </a>
+    </div>
+    <div class="pub-authors">
+      Namkyeong Lee, Dongmin Hyun, <strong>Gyoung S. Na</strong>, Sungwon Kim, Junseok Lee, Chanyoung Park
+    </div>
+    <div class="pub-venue">
+      <em>International Conference on Machine Learning (ICML)</em>, 2023
+    </div>
+  </li>
+
   <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1007/s40192-022-00250-x" target="_blank">An Easy, Simple, and Accessible Web-Based Machine Learning Platform, SimPL-ML</a>
@@ -360,7 +458,7 @@ permalink: /publications/
     <div class="pub-authors">
       Seunghun Jang<sup>*</sup>, <strong>Gyoung S. Na</strong>, Jungho Lee, Jung Ho Shin, Hyun Woo Kim, Hyunju Chang<sup>*</sup>
     </div>
-    <div class="pub-venue"><em>ntegrating Materials and Manufacturing Innovation</em>, 2022</div>
+    <div class="pub-venue"><em>Integrating Materials and Manufacturing Innovation</em>, 2022</div>
   </li>
 </ol>
 
