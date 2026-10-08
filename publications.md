@@ -145,7 +145,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Computational Materials Science</em>, 2023</div>
   </li>
 
-  <li class="publication journal">
+  <li class="publication book">
     <div class="pub-title">
       <a href="https://doi.org/10.1002/9781119819783.ch7" target="_blank">
         Numerical Representations of Chemical Data for Structure-Based Machine Learning
