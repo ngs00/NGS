@@ -388,7 +388,7 @@ permalink: /publications/
       </a>
     </div>
     <div class="pub-authors">
-      Heewoong Noh, Namkyeong Lee, <strong>Gyoung S. Na</strong>, Kibum Kim, Chanyoung Park
+      Heewoong Noh, Namkyeong Lee, <strong>Gyoung S. Na</strong>, Kibum Kim, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue">
       <em>International Conference on Learning Representations (ICLR)</em>, 2026
@@ -416,7 +416,7 @@ permalink: /publications/
       </a>
     </div>
     <div class="pub-authors">
-      Namkyeong Lee, Yunhak Oh, Heewoong Noh, <strong>Gyoung S. Na</strong>, Minkai Xu, Hanchen Wang, Tianfan Fu, Chanyoung Park
+      Namkyeong Lee, Yunhak Oh, Heewoong Noh, <strong>Gyoung S. Na</strong>, Minkai Xu, Hanchen Wang, Tianfan Fu, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue">
       <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025
@@ -430,7 +430,7 @@ permalink: /publications/
       </a>
     </div>
     <div class="pub-authors">
-      Namkyeong Lee, Heewoong Noh, Sungwon Kim, Dongmin Hyun, <strong>Gyoung S. Na</strong>, Chanyoung Park
+      Namkyeong Lee<sup>&dagger;</sup>, Heewoong Noh<sup>&dagger;</sup>, Sungwon Kim, Dongmin Hyun, <strong>Gyoung S. Na</strong>, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue">
       <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2023
@@ -444,7 +444,7 @@ permalink: /publications/
       </a>
     </div>
     <div class="pub-authors">
-      Namkyeong Lee, Kanghoon Yoon, <strong>Gyoung S. Na</strong>, Sein Kim, Chanyoung Park
+      Namkyeong Lee, Kanghoon Yoon, <strong>Gyoung S. Na</strong>, Sein Kim, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue">
       <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2023
@@ -458,7 +458,7 @@ permalink: /publications/
       </a>
     </div>
     <div class="pub-authors">
-      Namkyeong Lee, Dongmin Hyun, <strong>Gyoung S. Na</strong>, Sungwon Kim, Junseok Lee, Chanyoung Park
+      Namkyeong Lee, Dongmin Hyun, <strong>Gyoung S. Na</strong>, Sungwon Kim, Junseok Lee, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue">
       <em>International Conference on Machine Learning (ICML)</em>, 2023
