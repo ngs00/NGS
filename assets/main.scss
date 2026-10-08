@@ -174,12 +174,12 @@
   flex: 1;
 }
 
-.profile-main strong {
+.profile-main > strong {
   display: block;
   margin-bottom: 0.15rem;
 }
 
-.profile-main span {
+.profile-main > span {
   display: block;
   color: #666;
 }
