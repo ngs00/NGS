@@ -68,7 +68,11 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span><strong>Senior Researcher</strong> &nbsp;&nbsp; <strong>|</strong> &nbsp;&nbsp; Chemical AI Research Team · Digital Chemistry Research Center</span>
+      <span>
+        <strong>Senior Researcher</strong>
+        <span class="role-separator">|</span>
+        Chemical AI Research Team · Digital Chemistry Research Center
+      </span>
     </div>
     <div class="profile-year">
       2024–Present
@@ -78,7 +82,11 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span><strong>Researcher</strong> &nbsp;&nbsp; <strong>|</strong> &nbsp;&nbsp; Data-Driven Chemistry Research Center</span>
+      <span>
+        <strong>Researcher</strong>
+        <span class="role-separator">|</span>
+        Data-Driven Chemistry Research Center
+      </span>
     </div>
     <div class="profile-year">
       2019–2023
@@ -88,7 +96,10 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Pohang University of Science and Technology (POSTECH)</strong>
-      <span class="profile-role"><strong>Researcher</strong> &nbsp;&nbsp; <strong>|</strong> &nbsp;&nbsp; Information Research Laboratories</span>
+      <span class="profile-role">
+        <strong>Researcher</strong>
+        <span class="role-separator">|</span>
+        Information Research Laboratories</span>
     </div>
     <div class="profile-year">
       2019
