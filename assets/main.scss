@@ -41,15 +41,14 @@
 }
 
 
-/* Journal: pastel blue */
 .publication-list > .publication.journal::before {
   background-color: #d5c2df;
 }
-
-
-/* Conference: pastel lavender */
 .publication-list > .publication.conference::before {
   background-color: #b8d4ea;
+}
+.publication-list > .publication.book::before {
+  background-color: #d8d4c4;
 }
 
 
