@@ -175,6 +175,16 @@ permalink: /publications/
     <div class="pub-venue"><em>npj Computational Materials</em>, 2022</div>
   </li>
 
+  <li class="publication journal">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1039/d2cc01764d" target="_blank">Contrastive Representation Learning of Inorganic Materials to Overcome the Lack of Training Datasets</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim<sup>*</sup> 
+    </div>
+    <div class="pub-venue"><em>Chemical Communications</em>, 2022</div>
+  </li>
+
   <li class="publication journal" value="13">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.eswa.2022.117367" target="_blank">Eigen-Guided Deep Metric Learning</a>
