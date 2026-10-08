@@ -69,7 +69,7 @@ title: Home
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
       <span class="profile-role">
-        <strong>Senior Researcher</strong>
+        Senior Researcher
         <span class="role-separator">|</span>
         Chemical AI Research Team · Digital Chemistry Research Center
       </span>
@@ -83,7 +83,7 @@ title: Home
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
       <span class="profile-role">
-        <strong>Researcher</strong>
+        Researcher
         <span class="role-separator">|</span>
         Data-Driven Chemistry Research Center
       </span>
@@ -97,7 +97,7 @@ title: Home
     <div class="profile-main">
       <strong>Pohang University of Science and Technology (POSTECH)</strong>
       <span class="profile-role">
-        <strong>Researcher</strong>
+        Researcher
         <span class="role-separator">|</span>
         Information Research Laboratories</span>
     </div>
@@ -109,7 +109,9 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Open Source Tech Day, Korea</strong>
-      <span class="profile-role"><strong>Program Committee</strong></span>
+      <span class="profile-role">
+        Program Committee
+      </span>
     </div>
     <div class="profile-year">
       2023–Present
@@ -119,7 +121,9 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>National Science Museum, Republic of Korea</strong>
-      <span class="profile-role"><strong>Advisory Committee Member for AI</strong></span>
+      <span class="profile-role">
+        Advisory Committee Member for AI
+      </span>
     </div>
     <div class="profile-year">
       2020–2022
