@@ -10,14 +10,14 @@ permalink: /publications/
       <a href="https://openreview.net/forum?id=yMLPNBz9ZT" target="_blank">Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures</a>
     </div>
     <div class="pub-authors">
-      <strong>Gyoung Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
   </li>
 
   <li class="publication journal">
     <div class="pub-title">
-      <a href="https://doi.org/10.1021/acssuschemeng.5c09242" target="_blank">Exploring Non-Toxic Green Refrigerants using Positive-Unlabeled Learning and High-Fidelity Search</a>
+      <a href="https://doi.org/10.1021/acssuschemeng.5c09242" target="_blank">Exploring Nontoxic Green Refrigerants Using Positive-Unlabeled Learning and High-Fidelity Search</a>
     </div>
     <div class="pub-authors">
       Sanghoon Lee, Hyeok Jae Lee, <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim<sup>*</sup>
@@ -87,7 +87,7 @@ permalink: /publications/
 
   <li class="publication conference">
     <div class="pub-title">
-      <a href="https://doi.org/10.48550/arXiv.2410.21341" target="_blank">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a>
+      <a href="https://doi.org/10.52202/079017-0799" target="_blank">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a>
     </div>
     <div class="pub-authors">
       Heewoong Noh, Namkyeong Lee, <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
@@ -97,7 +97,7 @@ permalink: /publications/
 
   <li class="publication journal">
     <div class="pub-title">
-      <a href="https://doi.org/10.1016/j.asoc.2024.111935" target="_blank">Metaheuristic-Guided Active Learning for Optimizing Reaction Conditions of High-Performance Non-Oxidative Methane Conversion</a>
+      <a href="https://doi.org/10.1016/j.asoc.2024.111935" target="_blank">Metaheuristics-Guided Active Learning for Optimizing Reaction Conditions of High-Performance Methane Conversion</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim<sup>*</sup>
@@ -120,7 +120,7 @@ permalink: /publications/
       <a href="https://doi.org/10.1016/j.commatsci.2024.112791" target="_blank">One-Shot Heterogeneous Transfer Learning from Calculated Crystal Structures to Experimentally Observed Materials</a>
     </div>
     <div class="pub-authors">
-      <strong>Gyoung S. Na</strong>
+      <strong>Gyoung S. Na<sup>*,&dagger;</sup></strong>, Ye Cheol Rho<sup>&dagger;</sup>
     </div>
     <div class="pub-venue"><em>Computational Materials Science</em>, 2024</div>
   </li>
@@ -167,7 +167,7 @@ permalink: /publications/
 
   <li class="publication journal">
     <div class="pub-title">
-      <a href="https://doi.org/10.1039/d2cc01764d" target="_blank">Contrastive Representation Learning of Inorganic Materials to Overcome the Lack of Training Datasets</a>
+      <a href="https://doi.org/10.1039/d2cc01764d" target="_blank">Contrastive Representation Learning of Inorganic Materials to Overcome Lack of Training Datasets</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*</sup></strong>, Hyun Woo Kim<sup>*</sup> 
@@ -227,7 +227,7 @@ permalink: /publications/
 
   <li class="publication journal">
     <div class="pub-title">
-      <a href="https://doi.org/10.1038/s41524-021-00564-y" target="_blank">Predicting Materials Properties from Chemical Formula with Explicitly Identifying Dopant Effects</a>
+      <a href="https://doi.org/10.1038/s41524-021-00564-y" target="_blank">Predicting Thermoelectric Properties from Chemical Formula with Explicitly Identifying Dopant Effects</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*</sup></strong>, Seunghun Jang, Hyunju Chang 
@@ -252,7 +252,7 @@ permalink: /publications/
     <div class="pub-authors">
       Hyun Woo Kim<sup>*,&dagger;</sup>, Sung Woo Lee<sup>&dagger;</sup>, <strong>Gyoung S. Na<sup>&dagger;</sup></strong>, Seung Ju Han, Seok Ki Kim, Jung Ho Shin, Hyunju Chang<sup>*</sup>, Yong Tae Kim<sup>*</sup>
     </div>
-    <div class="pub-venue"><em>Reaction Chemistry & Engineering</em>, 2020</div>
+    <div class="pub-venue"><em>Reaction Chemistry & Engineering</em>, 2021</div>
   </li>
 
   <li class="publication conference">
@@ -287,7 +287,7 @@ permalink: /publications/
   
   <li class="publication journal">
     <div class="pub-title">
-      <a href="https://doi.org/10.1021/acs.jcim.9b00816" target="_blank">Costless Performance Improvement in Machine Learning for Graph-based Molecular Analysis</a>
+      <a href="https://doi.org/10.1021/acs.jcim.9b00816" target="_blank">Costless Performance Improvement in Machine Learning for Graph-Based Molecular Analysis</a>
     </div>
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*,&dagger;</sup></strong>, Hyun Woo Kim<sup>&dagger;</sup>, Hyunju Chang<sup>*</sup>
