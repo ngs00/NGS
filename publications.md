@@ -311,7 +311,7 @@ permalink: /publications/
 
 <ol class="publication-list">
 
-  <li class="publication conference" value="4">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=8ar88hbtVG" target="_blank">Machine Collective Intelligence with Canonical Syntax Representations for Explainable Scientific Discovery</a>
     </div>
@@ -321,7 +321,7 @@ permalink: /publications/
     <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2026</div>
   </li>
 
-  <li class="publication conference" value="3">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=8ar88hbtVG" target="_blank">Periodic Complex Stochastic Processes for Retrieving Atomic Structures of Unknown Matters</a>
     </div>
@@ -331,7 +331,7 @@ permalink: /publications/
     <div class="pub-venue"><em>ICML Workshop on AI for Science</em>, 2026</div>
   </li>
   
-  <li class="publication conference" value="2">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://neurips.cc/virtual/2023/75794" target="_blank">Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems</a>
     </div>
@@ -341,7 +341,7 @@ permalink: /publications/
     <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2023</div>
   </li>
   
-  <li class="publication conference" value="1">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://neurips.cc/virtual/2023/75706" target="_blank">Electron-Derived Molecular Representation Learning for Real-World Molecular Physics</a>
     </div>
@@ -351,3 +351,18 @@ permalink: /publications/
     <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2023</div>
   </li>
 </ol>
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".publication-list").forEach(function (list) {
+    const publications = list.querySelectorAll(":scope > .publication");
+    const total = publications.length;
+
+    publications.forEach(function (pub, index) {
+      pub.setAttribute("value", total - index);
+    });
+  });
+});
+</script>
