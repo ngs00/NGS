@@ -35,7 +35,7 @@ title: Home
       <p>
         Graph Representation Learning
         <span>·</span>
-        Representation Learning for Chemistry
+        Latent Variable Generative Models
         <span>·</span>
         Cross-Modal Representation Learning
       </p>
