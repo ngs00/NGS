@@ -318,6 +318,16 @@ permalink: /publications/
     </div>
     <div class="pub-venue"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2018</div>
   </li>
+  
+  <li class="publication journal">
+    <div class="pub-title">
+      <a href="https://doi.org/10.23055/ijietap.2016.23.6.1627" target="_blank">Agent-Based Simulation of Emergency Evacuation for Nuclear Plant Disaster</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>, Gyu M. Lee<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>International Journal of Industrial Engineering: Theory, Applications and Practice</em>, 2017</div>
+  </li>
 </ol>
 
 
