@@ -13,7 +13,7 @@ title: Home
     (KRICT) while pursuing a Ph.D. in Data Science at KAIST under the supervision
     of Prof.
     <a href="https://dsail.kaist.ac.kr/professor/" target="_blank">Chanyoung Park</a>.
-    My research spans across representation learning and physics-informed mathematical modeling, with a particular focus on multi-agent scientific reasoning, autonomous laboratory, and AI for Science (AI4Science).
+    My research spans across representation learning and physics-informed mathematical modeling, with a particular focus on multi-agent scientific reasoning, autonomous laboratory, and AI for Science.
   </p>
   <p class="home-links">
     <a href="{{ '/publications/' | relative_url }}">Publications</a>
@@ -36,21 +36,28 @@ title: Home
         Graph Representation Learning
         <span>·</span>
         Representation Learning for Chemistry
-        <span>·</span>Cross-Modal Representation Learning
+        <span>·</span>
+        Cross-Modal Representation Learning
       </p>
     </div>
     <div class="interest-item">
-      <strong>AI for Chemistry</strong>
+      <strong>Multi-Agent Scientific Reasoning</strong>
       <p>
-        AI-driven modeling of physical and chemical systems for molecular generation,
-        materials discovery, and autonomous laboratory.
+        Molecular/Crystal Structure Identification
+        <span>·</span>
+        Governing Equation Discovery
+        <span>·</span>
+        LLM-Induced Inverse Design
       </p>
     </div>
     <div class="interest-item">
-      <strong>AI-induced Scientific Reasoning</strong>
+      <strong>AI for Science</strong>
       <p>
-        Physics- and chemistry-informed modeling, governing equation discovery,
-        inverse design, and scientific reasoning.
+        Physics-Informed Modeling
+        <span>·</span>
+        AI-Driven Materials Discovery
+        <span>·</span>
+        Inorganic Retrosynthesis
       </p>
     </div>
   </div>
