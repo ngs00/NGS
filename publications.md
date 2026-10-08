@@ -92,7 +92,7 @@ permalink: /publications/
     <div class="pub-authors">
       Heewoong Noh, Namkyeong Lee, <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
     </div>
-    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025</div>
+    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2024</div>
   </li>
 
   <li class="publication journal">
