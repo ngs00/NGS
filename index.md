@@ -57,8 +57,6 @@ title: Home
         Physics- and Chemistry-Informed Modeling
         <span>·</span>
         Autonomous Materials Discovery
-        <span>·</span>
-        Inorganic Retrosynthesis
       </p>
     </div>
   </div>
@@ -90,7 +88,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Pohang University of Science and Technology (POSTECH)</strong>
-      <span><strong>Researcher</strong>, Information Research Laboratories</span>
+      <span class="profile-role"><strong>Researcher</strong>, Information Research Laboratories</span>
     </div>
     <div class="profile-year">
       2019
@@ -100,7 +98,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Open Source Tech Day, Korea</strong>
-      <span><strong>Program Committee</strong></span>
+      <span class="profile-role"><strong>Program Committee</strong></span>
     </div>
     <div class="profile-year">
       2023–Present
@@ -110,7 +108,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>National Science Museum, Republic of Korea</strong>
-      <span><strong>Advisory Committee Member for AI</strong></span>
+      <span class="profile-role"><strong>Advisory Committee Member for AI</strong></span>
     </div>
     <div class="profile-year">
       2020–2022
