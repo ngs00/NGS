@@ -18,9 +18,14 @@
   margin: 0 0 2.2rem 0;
   padding-left: 3rem;
 }
-.profile-role strong {
+.profile-main .profile-role strong {
   display: inline;
   margin: 0;
+}
+.role-separator {
+  display: inline;
+  margin: 0 0.6rem;
+  color: #999;
 }
 
 
