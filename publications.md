@@ -351,7 +351,7 @@ permalink: /publications/
 </ol>
 
 
-<h2 class="pub-category">Publications as Contributing Author</h2>
+<h2 class="pub-category">Contributing Publications</h2>
 <ol class="publication-list">
   <li class="publication journal">
     <div class="pub-title">
