@@ -68,11 +68,11 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span class="profile-role">
+      <p class="profile-role">
         Senior Researcher
         <span class="role-separator">|</span>
         Chemical AI Research Team · Digital Chemistry Research Center
-      </span>
+      </p>
     </div>
     <div class="profile-year">
       2024–Present
