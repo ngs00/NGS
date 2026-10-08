@@ -97,7 +97,7 @@ title: Home
     </div>
   </div>
 
-    <div class="profile-entry">
+  <div class="profile-entry">
     <div class="profile-main">
       <strong>ETRI Open Source Tech Day</strong>
       <span>Program Committee</span>
