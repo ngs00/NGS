@@ -15,16 +15,6 @@ permalink: /publications/
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
   </li>
 
-  <li class="publication conference">
-    <div class="pub-title">
-      <a href="https://openreview.net/forum?id=uYucJYHAGU" target="_blank">A Structured LLM Framework for Inorganic Material Synthesis Planning</a>
-    </div>
-    <div class="pub-authors">
-      Heewoong Noh, <strong>Gyoung S. Na</strong>, Namkyeong Lee, Chanyoung Park<sup>*</sup>
-    </div>
-    <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
-  </li>
-
   <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acssuschemeng.5c09242" target="_blank">Exploring Non-Toxic Green Refrigerants using Positive-Unlabeled Learning and High-Fidelity Search</a>
