@@ -13,21 +13,13 @@ title: Home
     (KRICT) while pursuing a Ph.D. in Data Science at KAIST under the supervision
     of Prof.
     <a href="https://dsail.kaist.ac.kr/professor/" target="_blank">Chanyoung Park</a>.
-    My research mainly focuses on AI-driven mathematical modeling of complex
-    physical and chemical systems for molecular generation, materials discovery,
-    and autonomous laboratory.
-  </p>
-  <p>
-    My research interests span mathematical optimization, AI for science,
-    and AI-induced scientific reasoning, with a particular focus on
-    physics- and chemistry-informed modeling, governing equation discovery,
-    and inverse design.
+    My research spans across representation learning and physics-informed mathematical modeling, with a particular focus on multi-agent scientific reasoning, autonomous laboratory, and AI for Science (AI4Science).
   </p>
   <p class="home-links">
     <a href="{{ '/publications/' | relative_url }}">Publications</a>
     <span>·</span>
-    <a href="https://www.linkedin.com/in/gyoung-s-na-014596214/" target="_blank">
-      LinkedIn
+    <a href="https://orcid.org/0000-0001-9803-0782" target="_blank">
+      ORCID
     </a>
     <span>·</span>
     <a href="mailto:ngs0@krict.re.kr">Email</a>
