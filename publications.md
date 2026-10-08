@@ -82,7 +82,7 @@ permalink: /publications/
     <div class="pub-authors">
       <strong>Gyoung S. Na</strong>
     </div>
-    <div class="pub-venue"><em>Analytical Chemistry</em>, 2025</div>
+    <div class="pub-venue"><em>Analytical Chemistry</em>, 2024</div>
   </li>
 
   <li class="publication conference">
