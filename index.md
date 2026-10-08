@@ -80,7 +80,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span>Researcher</span>
+      <span>Researcher, Data-Driven Chemistry Research Center</span>
     </div>
     <div class="profile-year">
       2019–2023
@@ -90,7 +90,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Pohang University of Science and Technology (POSTECH)</strong>
-      <span>Researcher</span>
+      <span>Researcher, Information Research Laboratories</span>
     </div>
     <div class="profile-year">
       2019
@@ -99,7 +99,7 @@ title: Home
 
   <div class="profile-entry">
     <div class="profile-main">
-      <strong>ETRI Open Source Tech Day</strong>
+      <strong>Open Source Tech Day, Korea</strong>
       <span>Program Committee</span>
     </div>
     <div class="profile-year">
