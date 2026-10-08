@@ -145,6 +145,20 @@ permalink: /publications/
     <div class="pub-venue"><em>Computational Materials Science</em>, 2023</div>
   </li>
 
+  <li class="publication journal">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1002/9781119819783.ch7" target="_blank">
+        Numerical Representations of Chemical Data for Structure-Based Machine Learning
+      </a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue">
+      Chapter 7 in <em>AI-Guided Design and Property Prediction for Zeolites and Nanoporous Materials</em>, Wiley, 2023
+    </div>
+  </li>
+
   <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.1109/BigData55660.2022.10020289" target="_blank">Conditional Graph Regression for Complex Chemical Systems with Heterogeneous Substructures</a>
