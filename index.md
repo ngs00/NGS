@@ -3,4 +3,12 @@ layout: home
 title: Home
 ---
 
-Welcome to my personal blog.
+I am an AI researcher.
+
+My research interests include:
+
+- AI for scientific discovery
+- Symbolic regression
+- Inverse design
+- Molecular identification
+
