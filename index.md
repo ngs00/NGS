@@ -39,14 +39,14 @@ title: Home
   <h2>Research Interests</h2>
   <div class="interest-list">
     <div class="interest-item">
-      <strong>Mathematical Optimization</strong>
+      <strong>Representation Learning</strong>
       <p>
         Mathematical optimization and learning algorithms for modeling,
         inference, and design of complex scientific systems.
       </p>
     </div>
     <div class="interest-item">
-      <strong>AI for Science</strong>
+      <strong>AI for Chemistry</strong>
       <p>
         AI-driven modeling of physical and chemical systems for molecular generation,
         materials discovery, and autonomous laboratory.
