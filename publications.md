@@ -110,7 +110,7 @@ permalink: /publications/
       <a href="https://doi.org/10.1109/ICBDA61153.2024.10607172" target="_blank">Learning M-Order Spectrum Graphs to Identify Unknown Chemical Compounds from Infrared Spectroscopy Data</a>
     </div>
     <div class="pub-authors">
-      <strong>Gyoung S. Na</strong>
+      <strong>Gyoung S. Na<sup>*,&dagger;</sup></strong>, Ye Cheol Rho<sup>&dagger;</sup>
     </div>
     <div class="pub-venue"><em>IEEE International Conference on Big Data Analytics (IEEE ICBDA)</em>, 2024</div>
   </li>
@@ -120,7 +120,7 @@ permalink: /publications/
       <a href="https://doi.org/10.1016/j.commatsci.2024.112791" target="_blank">One-Shot Heterogeneous Transfer Learning from Calculated Crystal Structures to Experimentally Observed Materials</a>
     </div>
     <div class="pub-authors">
-      <strong>Gyoung S. Na<sup>*,&dagger;</sup></strong>, Ye Cheol Rho<sup>&dagger;</sup>
+      <strong>Gyoung S. Na</strong>
     </div>
     <div class="pub-venue"><em>Computational Materials Science</em>, 2024</div>
   </li>
