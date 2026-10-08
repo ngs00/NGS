@@ -61,3 +61,309 @@
   color: #2a7ae2 !important;
   text-decoration: none !important;
 }
+
+
+
+/* =========================================================
+   index.md
+   ========================================================= */
+.home-hero {
+  padding: 4.5rem 0 4rem 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.hero-main {
+  max-width: 760px;
+}
+
+.hero-eyebrow {
+  margin-bottom: 0.7rem;
+
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  color: #718096;
+}
+
+.hero-name {
+  margin: 0 0 0.7rem 0;
+
+  font-size: 3rem;
+  font-weight: 650;
+  line-height: 1.1;
+  letter-spacing: -0.035em;
+
+  color: #202632;
+}
+
+.hero-position {
+  margin-bottom: 2rem;
+
+  font-size: 1.05rem;
+  line-height: 1.65;
+
+  color: #56616f;
+}
+
+.hero-description {
+  max-width: 720px;
+
+  margin: 0 0 1rem 0;
+
+  font-size: 1.05rem;
+  line-height: 1.8;
+
+  color: #3e4753;
+}
+
+
+/* Hero buttons */
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+
+  margin-top: 2rem;
+}
+
+.hero-button {
+  display: inline-block;
+
+  padding: 0.48rem 0.9rem;
+
+  border: 1px solid #cbd2da;
+  border-radius: 5px;
+
+  font-size: 0.86rem;
+  font-weight: 500;
+
+  color: #3f4a57 !important;
+  text-decoration: none !important;
+
+  transition:
+    border-color 0.15s ease,
+    background-color 0.15s ease;
+}
+
+.hero-button:hover {
+  border-color: #9ea8b4;
+  background-color: #f5f7f9;
+}
+
+.hero-button.primary {
+  border-color: #acc7dd;
+  background-color: #e3eff7;
+
+  color: #314c62 !important;
+}
+
+
+/* Sections */
+
+.home-section {
+  padding: 3.5rem 0;
+  border-bottom: 1px solid #ececec;
+}
+
+.compact-section {
+  padding-bottom: 2rem;
+}
+
+.section-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8rem;
+
+  margin-bottom: 1.8rem;
+}
+
+.section-heading h2 {
+  margin: 0;
+
+  font-size: 1.55rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+
+  color: #252b33;
+}
+
+.section-number {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+
+  color: #9aa4af;
+}
+
+
+/* Research */
+
+.research-summary {
+  max-width: 700px;
+
+  margin-bottom: 1.8rem;
+
+  font-size: 1rem;
+  line-height: 1.7;
+
+  color: #525d69;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.research-card {
+  position: relative;
+
+  padding: 1.4rem 1.3rem 1.3rem 1.3rem;
+
+  border: 1px solid #e0e4e8;
+  border-radius: 7px;
+
+  background-color: #fafbfc;
+}
+
+.research-card-number {
+  margin-bottom: 1.1rem;
+
+  font-size: 0.68rem;
+  font-weight: 600;
+
+  color: #9ba5af;
+}
+
+.research-card h3 {
+  margin: 0 0 0.65rem 0;
+
+  font-size: 1rem;
+  font-weight: 600;
+
+  color: #303944;
+}
+
+.research-card p {
+  margin: 0;
+
+  font-size: 0.89rem;
+  line-height: 1.65;
+
+  color: #68727d;
+}
+
+
+/* Experience & education */
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+}
+
+.profile-label {
+  margin-bottom: 1.3rem;
+
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+
+  color: #8a949f;
+}
+
+.timeline-item {
+  padding: 0 0 1.25rem 1.15rem;
+  margin-bottom: 0.4rem;
+
+  border-left: 2px solid #dbe3e9;
+}
+
+.timeline-year {
+  margin-bottom: 0.25rem;
+
+  font-size: 0.75rem;
+  font-weight: 500;
+
+  color: #9099a3;
+}
+
+.timeline-content strong {
+  display: block;
+
+  margin-bottom: 0.15rem;
+
+  font-size: 0.96rem;
+  font-weight: 600;
+
+  color: #343c45;
+}
+
+.timeline-content span {
+  display: block;
+
+  font-size: 0.87rem;
+  line-height: 1.45;
+
+  color: #69737e;
+}
+
+
+/* Academic service */
+
+.service-list {
+  border-top: 1px solid #e5e7ea;
+}
+
+.service-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+
+  padding: 0.85rem 0;
+
+  border-bottom: 1px solid #e5e7ea;
+
+  font-size: 0.9rem;
+  line-height: 1.5;
+
+  color: #505a65;
+}
+
+.service-year {
+  flex-shrink: 0;
+
+  color: #9099a3;
+}
+
+
+/* Responsive */
+
+@media screen and (max-width: 720px) {
+
+  .home-hero {
+    padding-top: 3rem;
+  }
+
+  .hero-name {
+    font-size: 2.35rem;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .service-item {
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+}
