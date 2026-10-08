@@ -90,7 +90,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Pohang University of Science and Technology (POSTECH)</strong>
-      <span>Researcher, Information Research Laboratories</span>
+      <span><strong>Researcher</strong>, Information Research Laboratories</span>
     </div>
     <div class="profile-year">
       2019
