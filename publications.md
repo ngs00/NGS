@@ -394,6 +394,20 @@ permalink: /publications/
       <em>International Conference on Learning Representations (ICLR)</em>, 2026
     </div>
   </li>
+
+  <li class="publication journal">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1186/s13321-025-01124-y" target="_blank">
+        A Quantum Chemical Dataset of Interacting Molecular Pairs for Chemical Reaction Studies
+      </a>
+    </div>
+    <div class="pub-authors">
+      Seunghun Jang<sup>*</sup>, <strong>Gyoung S. Na</strong>
+    </div>
+    <div class="pub-venue">
+      <em>Journal of Cheminformatics</em>, 2025
+    </div>
+  </li>
   
   <li class="publication conference">
     <div class="pub-title">
