@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="home-profile">
-  <h1>Gyoung S. Na</h1>
+  <h1>Gyoung S. Na <span class="name-ko">나경석</span></h1>
   <p class="home-position">
     <strong>Senior Researcher</strong>, Korea Research Institute of Chemical Technology (KRICT)<br>
   </p>
