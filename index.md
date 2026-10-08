@@ -68,7 +68,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span>
+      <span class="profile-role">
         <strong>Senior Researcher</strong>
         <span class="role-separator">|</span>
         Chemical AI Research Team · Digital Chemistry Research Center
@@ -82,7 +82,7 @@ title: Home
   <div class="profile-entry">
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span>
+      <span class="profile-role">
         <strong>Researcher</strong>
         <span class="role-separator">|</span>
         Data-Driven Chemistry Research Center
