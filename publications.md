@@ -308,9 +308,7 @@ permalink: /publications/
 
 
 <h2 class="pub-category">Workshop Papers</h2>
-
 <ol class="publication-list">
-
   <li class="publication conference">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=8ar88hbtVG" target="_blank">Machine Collective Intelligence with Canonical Syntax Representations for Explainable Scientific Discovery</a>
@@ -349,6 +347,20 @@ permalink: /publications/
       <strong>Gyoung S. Na<sup>*</sup></strong>, Chanyoung Park<sup>*</sup>
     </div>
     <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2023</div>
+  </li>
+</ol>
+
+
+<h2 class="pub-category">Publications as Contributing Author</h2>
+<ol class="publication-list">
+  <li class="publication journal">
+    <div class="pub-title">
+      <a href="https://doi.org/10.1007/s40192-022-00250-x" target="_blank">An Easy, Simple, and Accessible Web-Based Machine Learning Platform, SimPL-ML</a>
+    </div>
+    <div class="pub-authors">
+      Seunghun Jang<sup>*</sup>, <strong>Gyoung S. Na</strong>, Jungho Lee, Jung Ho Shin, Hyun Woo Kim, Hyunju Chang<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>ntegrating Materials and Manufacturing Innovation</em>, 2022</div>
   </li>
 </ol>
 
