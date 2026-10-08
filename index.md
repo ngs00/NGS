@@ -33,8 +33,10 @@ title: Home
     <div class="interest-item">
       <strong>Representation Learning</strong>
       <p>
-        Mathematical optimization and learning algorithms for modeling,
-        inference, and design of complex scientific systems.
+        Graph Representation Learning
+        <span>·</span>
+        Representation Learning for Chemistry
+        <span>·</span>Cross-Modal Representation Learning
       </p>
     </div>
     <div class="interest-item">
