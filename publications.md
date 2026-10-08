@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <ol class="publication-list">
-  <li class="publication conference" value="30">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=yMLPNBz9ZT" target="_blank">Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures</a>
     </div>
@@ -15,7 +15,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
   </li>
 
-  <li class="publication conference" value="29">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=uYucJYHAGU" target="_blank">A Structured LLM Framework for Inorganic Material Synthesis Planning</a>
     </div>
@@ -25,7 +25,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2026</div>
   </li>
 
-  <li class="publication journal" value="28">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acssuschemeng.5c09242" target="_blank">Exploring Non-Toxic Green Refrigerants using Positive-Unlabeled Learning and High-Fidelity Search</a>
     </div>
@@ -35,7 +35,7 @@ permalink: /publications/
     <div class="pub-venue"><em>ACS Sustainable Chemistry & Engineering</em>, 2026</div>
   </li>
 
-  <li class="publication conference" value="27">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.1109/AIoT66900.2025.00019" target="_blank">Conditional Inverse Design Solvers for Autonomous Manufacturing Systems with System Constraints</a>
     </div>
@@ -45,7 +45,7 @@ permalink: /publications/
     <div class="pub-venue"><em>IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT)</em>, 2025</div>
   </li>
 
-  <li class="publication journal" value="26">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acs.analchem.5c03126" target="_blank">Explainable Machine Learning for Characterizing Unknown Molecular Structures in Infrared Spectra</a>
     </div>
@@ -55,7 +55,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Analytical Chemistry</em>, 2025</div>
   </li>
 
-  <li class="publication journal" value="25">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1038/s41524-025-01723-1" target="_blank">Cross-modality Material Embedding Loss for Transferring Knowledge Between Heterogeneous Material Descriptors</a>
     </div>
@@ -65,7 +65,7 @@ permalink: /publications/
     <div class="pub-venue"><em>npj Computational Materials</em>, 2025</div>
   </li>
 
-  <li class="publication conference" value="24">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.1145/3690624.3709270" target="_blank">Electron-Informed Coarse-Graining Molecular Representation Learning for Real-World Molecular Physics</a>
     </div>
@@ -75,7 +75,7 @@ permalink: /publications/
     <div class="pub-venue"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2025</div>
   </li>
 
-  <li class="publication conference" value="23">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=UQ0RqfhgCk" target="_blank">Self-Supervised Diffusion Models for Electron-Aware Molecular Representation Learning</a>
     </div>
@@ -85,7 +85,7 @@ permalink: /publications/
     <div class="pub-venue"><em>International Conference on Learning Representations (ICLR)</em>, 2025</div>
   </li>
   
-  <li class="publication journal" value="22">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acs.analchem.4c04786" target="_blank">Deep Learning for Generating Phase-Conditioned Infrared Spectra</a>
     </div>
@@ -95,7 +95,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Analytical Chemistry</em>, 2025</div>
   </li>
 
-  <li class="publication conference" value="21">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.48550/arXiv.2410.21341" target="_blank">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a>
     </div>
@@ -105,7 +105,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025</div>
   </li>
 
-  <li class="publication journal" value="20">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.asoc.2024.111935" target="_blank">Metaheuristic-Guided Active Learning for Optimizing Reaction Conditions of High-Performance Non-Oxidative Methane Conversion</a>
     </div>
@@ -115,7 +115,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Applied Soft Computing</em>, 2024</div>
   </li>
 
-  <li class="publication conference" value="19">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.1109/ICBDA61153.2024.10607172" target="_blank">Learning M-Order Spectrum Graphs to Identify Unknown Chemical Compounds from Infrared Spectroscopy Data</a>
     </div>
@@ -125,7 +125,7 @@ permalink: /publications/
     <div class="pub-venue"><em>IEEE International Conference on Big Data Analytics (IEEE ICBDA)</em>, 2024</div>
   </li>
 
-  <li class="publication journal" value="18">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.commatsci.2024.112791" target="_blank">One-Shot Heterogeneous Transfer Learning from Calculated Crystal Structures to Experimentally Observed Materials</a>
     </div>
@@ -135,7 +135,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Computational Materials Science</em>, 2024</div>
   </li>
 
-  <li class="publication journal" value="17">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acs.chemmater.3c01834" target="_blank">Artificial Intelligence for Learning Material Synthesis Processes of Thermoelectric Materials</a>
     </div>
@@ -145,7 +145,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Chemistry of Materials</em>, 2023</div>
   </li>
 
-  <li class="publication journal" value="16">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.commatsci.2022.111835" target="_blank">Substructure Interaction Graph Network with Node Augmentation for Hybrid Chemical Systems of Heterogeneous Substructures</a>
     </div>
@@ -155,7 +155,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Computational Materials Science</em>, 2023</div>
   </li>
 
-  <li class="publication conference" value="15">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.1109/BigData55660.2022.10020289" target="_blank">Conditional Graph Regression for Complex Chemical Systems with Heterogeneous Substructures</a>
     </div>
@@ -165,7 +165,7 @@ permalink: /publications/
     <div class="pub-venue"><em>IEEE International Conference on Big Data (IEEE Big Data)</em>, 2022</div>
   </li>
 
-  <li class="publication journal" value="14">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1038/s41524-022-00897-2" target="_blank">A Public Database of Thermoelectric Materials and System-Identified Material Representation for Data-Driven Discovery</a>
     </div>
@@ -185,7 +185,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Chemical Communications</em>, 2022</div>
   </li>
 
-  <li class="publication journal" value="13">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.eswa.2022.117367" target="_blank">Eigen-Guided Deep Metric Learning</a>
     </div>
@@ -195,7 +195,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Expert Systems with Applications</em>, 2022</div>
   </li>
 
-  <li class="publication conference" value="12">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.1145/3534678.3539326" target="_blank">Nonlinearity Encoding for Extrapolation of Neural Networks</a>
     </div>
@@ -205,7 +205,7 @@ permalink: /publications/
     <div class="pub-venue"><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</em>, 2022</div>
   </li>
   
-  <li class="publication journal" value="11">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.neunet.2022.02.014" target="_blank">Efficient Learning Rate Adaptation Based on Hierarchical Optimization Approach</a>
     </div>
@@ -215,7 +215,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Neural Networks</em>, 2022</div>
   </li>
 
-  <li class="publication journal" value="10">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1039/d1cp04450h" target="_blank">Nonlinearity Encoding to Improve Extrapolation Capabilities for Unobserved Physical States</a>
     </div>
@@ -225,7 +225,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Physical Chemistry Chemical Physics</em>, 2022</div>
   </li>
 
-  <li class="publication journal" value="9">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1145/3459082" target="_blank">Unsupervised Subspace Extraction via Deep Kernelized Clustering</a>
     </div>
@@ -235,7 +235,7 @@ permalink: /publications/
     <div class="pub-venue"><em>ACM Transactions on Knowledge Discovery from Data</em>, 2021</div>
   </li>
 
-  <li class="publication journal" value="8">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1038/s41524-021-00564-y" target="_blank">Predicting Materials Properties from Chemical Formula with Explicitly Identifying Dopant Effects</a>
     </div>
@@ -245,7 +245,7 @@ permalink: /publications/
     <div class="pub-venue"><em>npj Computational Materials</em>, 2021</div>
   </li>
 
-  <li class="publication journal" value="7">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1016/j.neunet.2020.09.022" target="_blank">Reverse Graph Self-Attention for Target-Directed Atomic Importance Estimation</a>
     </div>
@@ -255,7 +255,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Neural Networks</em>, 2021</div>
   </li>
 
-  <li class="publication journal" value="6">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1039/d0re00378f" target="_blank">Reaction Condition Optimization for Non-Oxidative Conversion of Methane Using Artificial Intelligence</a>
     </div>
@@ -265,7 +265,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Reaction Chemistry & Engineering</em>, 2020</div>
   </li>
 
-  <li class="publication conference" value="5">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.1109/BigData50022.2020.9377905" target="_blank">Scale-Aware Graph-Based Machine Learning for Accurate Molecular Property Prediction</a>
     </div>
@@ -275,7 +275,7 @@ permalink: /publications/
     <div class="pub-venue"><em>IEEE International Conference on Big Data (IEEE Big Data)</em>, 2020</div>
   </li>
 
-  <li class="publication journal" value="4">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acs.jpca.0c07802" target="_blank">Tuplewise Material Representation Based Machine Learning for Accurate Band Gap Prediction</a>
     </div>
@@ -285,7 +285,7 @@ permalink: /publications/
     <div class="pub-venue"><em>The Journal of Physical Chemistry A</em>, 2020</div>
   </li>
 
-  <li class="publication journal" value="3">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1039/d0cp02709j" target="_blank">Machine-Guided Representation for Accurate Graph-Based Molecular Machine Learning</a>
     </div>
@@ -295,7 +295,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Physical Chemistry Chemical Physics</em>, 2020</div>
   </li>
   
-  <li class="publication journal" value="2">
+  <li class="publication journal">
     <div class="pub-title">
       <a href="https://doi.org/10.1021/acs.jcim.9b00816" target="_blank">Costless Performance Improvement in Machine Learning for Graph-based Molecular Analysis</a>
     </div>
@@ -305,7 +305,7 @@ permalink: /publications/
     <div class="pub-venue"><em>Journal of Chemical Information and Modeling</em>, 2020</div>
   </li>
   
-  <li class="publication conference" value="1">
+  <li class="publication conference">
     <div class="pub-title">
       <a href="https://doi.org/10.1145/3219819.3220022" target="_blank">DILOF: Effective and Memory Efficient Local Outlier Detection in Data Streams</a>
     </div>
@@ -361,7 +361,6 @@ permalink: /publications/
     <div class="pub-venue"><em>NeurIPS Workshop on AI for Science</em>, 2023</div>
   </li>
 </ol>
-
 
 
 <script>
