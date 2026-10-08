@@ -43,53 +43,26 @@ title: Home
 
 </div>
 
-
-<section class="home-section">
-
-  <h2>Research Interests</h2>
-
-  <div class="interest-list">
-
-    <div class="interest-item">
-      <strong>Mathematical Optimization</strong>
-      <p>
-        Mathematical optimization and learning algorithms for modeling,
-        inference, and design of complex scientific systems.
-      </p>
-    </div>
-
-    <div class="interest-item">
-      <strong>AI for Science</strong>
-      <p>
-        AI-driven modeling of physical and chemical systems for molecular generation,
-        materials discovery, and autonomous laboratory.
-      </p>
-    </div>
-
-    <div class="interest-item">
-      <strong>AI-induced Scientific Reasoning</strong>
-      <p>
-        Physics- and chemistry-informed modeling, governing equation discovery,
-        inverse design, and scientific reasoning.
-      </p>
-    </div>
-
-  </div>
-
-</section>
-
-
 <section class="home-section">
 
   <h2>Experience</h2>
 
   <div class="profile-entry">
+      <div class="profile-main">
+        <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
+        <span>Senior Researcher</span>
+      </div>
+      <div class="profile-year">
+        2024–Present
+      </div>
+    </div>
+  
     <div class="profile-main">
       <strong>Korea Research Institute of Chemical Technology (KRICT)</strong>
-      <span>Senior Researcher</span>
+      <span>Researcher</span>
     </div>
     <div class="profile-year">
-      2019–Present
+      2019–2023
     </div>
   </div>
 
