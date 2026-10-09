@@ -106,7 +106,7 @@ title: Home
 
   <div class="profile-entry">
     <div class="profile-main">
-      <strong>Open Source Tech Day, Korea</strong>
+      <strong>Open Source Tech Day, Republic of Korea</strong>
       <span class="profile-role">
         Program Committee
       </span>
