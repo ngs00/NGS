@@ -14,7 +14,7 @@ title: Home
     of Prof.
     <a href="https://dsail.kaist.ac.kr/professor/" target="_blank">Chanyoung Park</a>.
     I received my B.S. and M.S. degrees in Computer Science and Engineering from Pusan National University and POSTECH, respectively.
-    My research spans representation learning and physics- and chemistry-informed mathematical modeling, with a particular focus on multi-agent scientific reasoning, autonomous experimentation, and AI for science.
+    My research spans representation learning and physics-informed mathematical modeling, with a particular focus on multi-agent scientific reasoning, autonomous experimentation, and AI for science.
   </p>
   <p class="home-links">
     <a href="{{ '/publications/' | relative_url }}">Publications</a>
@@ -47,8 +47,6 @@ title: Home
         Molecular and Atomic Structure Identification
         <span>·</span>
         Governing Equation Discovery
-        <span>·</span>
-        Reasoning-Guided Inverse Design
       </p>
     </div>
     <div class="interest-item">
