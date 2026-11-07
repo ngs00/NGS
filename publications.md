@@ -5,6 +5,16 @@ permalink: /publications/
 ---
 
 <ol class="publication-list">
+  <li class="publication journal">
+    <div class="pub-title">
+      <a href="" target="_blank">Mixture of Analytical Reasoning Agents for Autonomous and Explainable Molecular Identification from Multi-Source Analytical Observations</a>
+    </div>
+    <div class="pub-authors">
+      <strong>Gyoung S. Na<sup>*</sup></strong>, Yecheol Rho<sup>*</sup>
+    </div>
+    <div class="pub-venue"><em>Analytical Chemistry (Accepted)</em></div>
+  </li>
+
   <li class="publication conference">
     <div class="pub-title">
       <a href="https://openreview.net/forum?id=yMLPNBz9ZT" target="_blank">Complex-Valued Periodic Stochastic Processes for Retrieving Unknown Atomic Structures</a>
