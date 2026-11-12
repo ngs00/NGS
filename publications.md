@@ -12,7 +12,7 @@ permalink: /publications/
     <div class="pub-authors">
       <strong>Gyoung S. Na<sup>*</sup></strong>, Yecheol Rho<sup>*</sup>
     </div>
-    <div class="pub-venue"><em>Analytical Chemistry (Accepted)</em></div>
+    <div class="pub-venue"><em>Analytical Chemistry</em>, 2026</div>
   </li>
 
   <li class="publication conference">
